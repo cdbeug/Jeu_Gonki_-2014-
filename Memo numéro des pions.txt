@@ -1,0 +1,20 @@
+1 rond blanc
+2 carre blanc
+3 rond noir
+4 carre noir
+
+5 rond-rond blanc
+6 carre-carre blanc
+7 rond-carre blanc
+8 rond-rond-rond blanc
+9 carre-carre-carre blanc
+10 rond-rond-carre blanc
+11 rond-carre-carre blanc
+
+12 rond-rond noir
+13 carre-carre noir
+14 rond-carre noir
+15 rond-rond-rond noir
+16 carre-carre-carre noir
+17 rond-rond-carre noir
+18 rond-carre-carre noir

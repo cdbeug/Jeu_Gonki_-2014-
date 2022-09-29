@@ -1,0 +1,10 @@
+void JeuTest (int configuration);
+char * recupereExpr (int n);
+int calculeTaille (char * s);
+int analyseExprCoup (int t[][8], int taille, char * s, int configuration);
+int * convertCoordonnees (int * t, char c, int n);
+int * convertCoordonnees2 (int * t, char c, int n);
+int convertNombre (char s);
+void remplitTabbleau (int t[][8], int configuration);
+void affiche (int t[][8], int coordonnees, int nombreDespaces);
+int verifieFinJeu (int t[][8], int configuration);

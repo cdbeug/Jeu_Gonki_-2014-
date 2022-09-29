@@ -1,0 +1,19 @@
+*Faire un mode test avant l'IA heuristiques.
+
+-*S'occuper des fichier vant l'IA : 
+le mode test doit etre accecible par
+des options+options pour les modes de jeu
+
+=> 
+
+-on finit les options réelles (2 modes de jeu),
+puis (et après seulement),
+on fait des options en ligne de commande.
+
+-En mode test (options -t), on entre les coups suivis d'entrée : 
+
+(représentation coups, cf pdf),
+
+=>fichier en entree automatique.
+
+-IA heuristiques.

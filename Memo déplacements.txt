@@ -1,0 +1,48 @@
+rond : 
+	-gauche-devant : 1
+	-droite-devant : 1
+
+carre : 
+	-gauche : 1
+	-droite : 1
+	-devant : 1
+
+
+rond-rond : 
+	-gauche-devant : 1,2
+	-droite-devant : 1,2
+
+carre-carre : 
+	-gauche : 1,2
+	-droite : 1,2
+	-devant : 1,2
+
+rond-carre : 
+	-gauche : 1
+	-droite : 1
+	-devant : 1
+	-gauche-devant : 1
+	-droite-devant : 1
+
+rond-rond-rond : 
+	-gauche-devant : 1,2,3
+	-droite-devant : 1,2,3
+
+carre-carre-carre : 
+	-gauche : 1,2,3
+	-droite : 1,2,3
+	-devant : 1,2,3
+
+rond-rond-carre : 
+	-gauche : 1
+	-droite : 1
+	-devant : 1
+	-gauche-devant : 1,2
+	-droite-devant : 1,2
+
+rond-carre-carre : 
+	-gauche : 1,2
+	-droite : 1,2
+	-devant : 1,2
+	-gauche-devant : 1
+	-droite-devant : 1
